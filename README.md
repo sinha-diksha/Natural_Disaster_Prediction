@@ -44,7 +44,7 @@ git clone [repository_url]
    or, ! pip install package_name
    or, ! pip3 install package_name
    
-6. All the packages used are mentioned in the start of each prediction model. In case you encounter error there, please install the necessary package as per the given command.
+6. All the packages used are mentioned in the start of each prediction model(as import commands). In case you encounter error there, please install the necessary package as per the given command.
    
 7. Run the Code: You can now run the code for each prediction model by executing the corresponding Python script or Jupyter Notebook file. Make sure to specify the correct file paths for accessing the datasets.
    
