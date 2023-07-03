@@ -15,7 +15,7 @@ The repository is organized as follows:
     - `earthquake_prediction.ipynb`: IPython Notebook with the earthquake prediction model
 
 - `droughtPrediction/`: Directory for drought prediction
-    - `datasets/`: please access the dataset from this link (256mb is the size of the dataset)   https://www.kaggle.com/code/cdminix/starter-us-drought-meteorological-data/input
+    - `datasets/`: please access the dataset from this link (256mb is the size of the dataset, so I was unable to push it here)   https://www.kaggle.com/code/cdminix/starter-us-drought-meteorological-data/input
     - `drought_prediction.ipynb`: IPython Notebook with the drought prediction model
 
 - `tsunamiPrediction/`: Directory for tsunami prediction
