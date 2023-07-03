@@ -29,7 +29,8 @@ The repository is organized as follows:
 ## Environment Setup
 
 To set up the environment and run the prediction models, please follow the steps below:
-1. You should have a preferred code editor like VS Code, Google Collab, Jupyter Notebook, Anaconda (or your preferred code editor) to run these ipynb files.
+1. You should have a preferred code editor like Google Collab, Jupyter Notebook, Anaconda (or your preferred code editor, preferably Google Collab) to run these ipynb files.
+       Open Google Colab by visiting the [Google Colab website](https://colab.research.google.com/) in your web browser.
 
 2. Clone this repository to your local machine using the following command:
 
