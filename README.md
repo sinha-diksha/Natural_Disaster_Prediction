@@ -6,23 +6,23 @@ Welcome to the Natural Disaster Prediction Model repository! This project focuse
 
 The repository is organized as follows:
 
-- `flood/`: Directory for flood prediction
+- `floodPrediction/`: Directory for flood prediction
     - `datasets/`: Directory containing flood-related datasets
     - `flood_prediction.ipynb`: IPython Notebook with the flood prediction model
 
-- `earthquake/`: Directory for earthquake prediction
+- `earthquakePrediction/`: Directory for earthquake prediction
     - `datasets/`: Directory containing earthquake-related datasets
     - `earthquake_prediction.ipynb`: IPython Notebook with the earthquake prediction model
 
-- `drought/`: Directory for drought prediction
+- `droughtPrediction/`: Directory for drought prediction
     - `datasets/`: please access the dataset from this link (256mb is the size of the dataset)   https://www.kaggle.com/code/cdminix/starter-us-drought-meteorological-data/input
     - `drought_prediction.ipynb`: IPython Notebook with the drought prediction model
 
-- `tsunami/`: Directory for tsunami prediction
+- `tsunamiPrediction/`: Directory for tsunami prediction
     - `datasets/`: Directory containing tsunami-related datasets
     - `tsunami_prediction.ipynb`: IPython Notebook with the tsunami prediction model
 
-- `hurricane/`: Directory for hurricane prediction
+- `hurricanePrediction/`: Directory for hurricane prediction
     - `datasets/`: Directory containing hurricane-related datasets
     - `hurricane_prediction.ipynb`: IPython Notebook with the hurricane prediction model
 
